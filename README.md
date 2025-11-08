@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Salem Bamaqaa 👋
 
-<!--
-**SALEM-BAMAQAA/SALEM-BAMAQAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent Computer Science graduate with a strong interest in networking, hardware, and exploring the latest advancements in technology. I'm passionate about building efficient and scalable software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+
+- **Languages:** C++, Java, Python, HTML
+- **Frameworks/Libraries:** Node.js
+- **Tools:** Git, Docker
+
+---
+
+### 🌱 I'm currently learning...
+
+- Advanced networking concepts and protocols.
+- Cloud computing with AWS/Azure.
+- Exploring new hardware architectures.
+
+---
+
+### 📫 How to reach me
+
+- **LinkedIn:** [Salem Bamaqaa](https://www.linkedin.com/in/salem-bamaqaa-29a54a331 )
+
+---
+
+### 📊 GitHub Stats
+
+[![Salem's GitHub stats](https://github-readme-stats.vercel.app/api?username=SALEM-BAMAQAA&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SALEM-BAMAQAA&layout=compact&theme=radical )](https://github.com/anuraghazra/github-readme-stats )
