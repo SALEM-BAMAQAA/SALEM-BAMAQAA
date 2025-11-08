@@ -23,7 +23,7 @@ I'm a recent Computer Science graduate with a strong interest in networking, har
 ### 📫 How to reach me
 
 - **LinkedIn:** [Salem Bamaqaa](https://www.linkedin.com/in/salem-bamaqaa-29a54a331 )
-
+- **Telegram:** [Salem Bamaqaa]([http://t.me/SALEM010110 )
 ---
 
 ### 📊 GitHub Stats
